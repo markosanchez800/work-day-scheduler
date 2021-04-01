@@ -1,4 +1,5 @@
 body {
+  background-color: moccasin;
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
   line-height: 1;
@@ -15,7 +16,7 @@ textarea{
 
 .jumbotron {
   text-align: center;
-  background-color: transparent;
+  background-color: rgba(172, 13, 13, 0.534);
   color: black;
   border-radius: 0;
   border-bottom: 10px solid black;
@@ -33,7 +34,6 @@ textarea{
 .row {
   white-space: pre-wrap;
   height: 80px;
-  border-top: 1px solid white;;
 }
 
 .hour {
@@ -76,6 +76,7 @@ textarea{
   border-right:5px solid black;
   border-bottom-right-radius:15px;
   border-top-right-radius: 15px;
+  background-color: rgba(172, 13, 13, 0.534);
 }
 
 #timey {
@@ -84,10 +85,15 @@ textarea{
   border-left:5px solid black;
   border-bottom-left-radius:15px;
   border-top-left-radius: 15px;
+  background-color: rgba(172, 13, 13, 0.534);
 }
 
 #timey p {
   margin-top: 25px;
+}
+
+#savey p {
+  margin-top:25px;
 }
 
 
