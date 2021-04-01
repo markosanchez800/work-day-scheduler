@@ -69,3 +69,28 @@ textarea{
   font-size: 20px;
   transition: all .3s ease-in-out;
 }
+
+#savey {
+  border-top:5px solid black;
+  border-bottom:5px solid black;
+  border-right:5px solid black;
+  border-bottom-right-radius:15px;
+  border-top-right-radius: 15px;
+}
+
+#timey {
+  border-bottom:5px solid black;
+  border-top:5px solid black;
+  border-left:5px solid black;
+  border-bottom-left-radius:15px;
+  border-top-left-radius: 15px;
+}
+
+#timey p {
+  margin-top: 25px;
+}
+
+
+.col-sm-8 {
+  border:5px solid black;
+}
