@@ -70,14 +70,6 @@ textarea{
   transition: all .3s ease-in-out;
 }
 
-#savey {
-  border-top:5px solid black;
-  border-bottom:5px solid black;
-  border-right:5px solid black;
-  border-bottom-right-radius:15px;
-  border-top-right-radius: 15px;
-  background-color: rgba(172, 13, 13, 0.534);
-}
 
 #timey {
   border-bottom:5px solid black;
